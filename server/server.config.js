@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://ba.usapp.cloudns.biz'
+const BAREURL = 'https://bare.nsdot8.cloudns.org'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
